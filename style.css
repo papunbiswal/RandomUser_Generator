@@ -1,0 +1,64 @@
+body{
+    top: 0%;
+    height: 400px;
+    width: auto;
+    background-color: rgb(21, 33, 66);
+}
+
+.navition .nav-pills{
+  justify-content: end;
+   height: 50px;
+   width: auto;
+   background-color: blue;
+   margin-left: 15rem;     
+   margin-top: -9.9rem;
+   position: fixed;
+  
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+}
+
+.navigstion .list-non-bullet .list-item-inline{
+    text-decoration: none;
+}
+
+.list-item-inline{
+    display: inline;
+    margin: 0.5rem;
+}
+
+nav ul li{
+    justify-content: space-around;
+}
+
+.read{
+    background-color: red;
+    margin-top: 10rem;
+}
+
+.username{
+    font-size: 3rem;
+    text-align: center;
+    color: white;
+}
+
+.apisource{
+    font-size: 1.5rem;
+    text-align: center;
+    color: white;
+}
+
+.twitter{
+    margin-left: 41rem;
+    
+}
+
+#d1{
+    color: white;
+    margin-left: 42rem;
+    margin-top: -1.3rem;
+}
+
